@@ -65,8 +65,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruud Linssen"
-  avatar           : /assets/images/avatar_256x256.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/avatar_256x256.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Information Security enthusiast."
   location         : "Eindhoven"
   email            : "r.p.j.linssen@gmail.com"
