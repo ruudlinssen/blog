@@ -108,7 +108,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.5)
+  jekyll
   jekyll-archives
   jekyll-feed (~> 0.6)
   jekyll-gist
