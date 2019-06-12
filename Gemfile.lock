@@ -111,7 +111,12 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-archives
   jekyll-feed (~> 0.6)
+  jekyll-gist
+  jekyll-include-cache
+  jekyll-paginate
   jekyll-postfiles
+  jekyll-sitemap
+  jemoji
   minimal-mistakes-jekyll
   tzinfo-data
 
