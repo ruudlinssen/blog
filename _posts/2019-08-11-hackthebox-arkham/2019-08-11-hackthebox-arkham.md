@@ -523,7 +523,7 @@ Local Group Memberships      *Administrators       *Remote Management Use
                              *Users
 ```
 
-As we can see here, `Batman` is a member of `Administrators`. That is good. We can try to use `runas` command to run commands as `Batman`, but for some reason the command exists silently. We can try to use `powershell` to do the same:
+As we can see here, `Batman` is a member of `Administrators`. That is good. We can try to use `runas` command to run commands as `Batman`, but for some reason the command exits silently. We can try to use `powershell` to do the same:
 
 First start a listener on your local machine:
 
