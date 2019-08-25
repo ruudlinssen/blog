@@ -5,7 +5,7 @@ date:   "2019-08-11 15:51:00 +0200"
 categories: hackthebox writeup
 ---
 
-For me, this box was a bit more challenging than any of the others I have done on Hack The Box. I usually only go for the Linux boxes, since I'm more familiar on those machines. But I will never learn to deal with Windows machines if you never practice them. So here we go!
+For me, this box was a bit more challenging than any of the others I have done on Hack The Box. I usually only go for the Linux boxes, since I'm more familiar on those machines. But I will never learn to deal with Windows machines if I never practice them. So here we go!
 
 ![badge](infobadge.png)
 
